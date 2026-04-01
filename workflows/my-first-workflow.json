@@ -1,0 +1,8 @@
+{
+  "name": "My First Workflow",
+  "prompt": " How do I create a React app?",
+  "response": "npx create-react-app my-app",
+  "savedAt": "2026-04-01T10:45:58.575Z",
+  "author": "Anonymus Vibecoder",
+  "version": "1.0.0"
+}
